@@ -1,1 +1,3 @@
-# PiIT_Mobile
+# PIiT Mobile
+
+PIiT mobile app.
