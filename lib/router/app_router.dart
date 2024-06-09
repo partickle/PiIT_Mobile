@@ -24,6 +24,7 @@ class AppRouter extends _$AppRouter {
     ),
     AutoRoute(
       page: MainRoute.page,
+      initial: true
     ),
     AutoRoute(
       page: NewsListRoute.page,
